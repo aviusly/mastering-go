@@ -17,5 +17,5 @@ func main() {
 	// so we type cast it appropriately
 	k := math.Abs(float64(AnotherGlobal))
 	fmt.Printf("Global=%d, i=%d, j=%d, k=%.2f.\n", Global, i, j, k)
-	fmt.Println("Hello World!")
+	//fmt.Println("Hello World!")
 }
